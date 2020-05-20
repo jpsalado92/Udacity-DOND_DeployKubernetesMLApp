@@ -1,0 +1,11 @@
+WARNING! Your password will be stored unencrypted in /home/ec2-user/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+Error from server (AlreadyExists): pods "pricepredictor" already exists
+NAME             READY   STATUS    RESTARTS   AGE
+pricepredictor   1/1     Running   0          5m5s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
