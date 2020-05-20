@@ -1,3 +1,4 @@
+[![jpsalado92](https://circleci.com/gh/jpsalado92/DeployKubernetesMLApp/tree/circleci-project-setup.svg?style=svg)](https://app.circleci.com/pipelines/github/jpsalado92/DeployKubernetesMLApp)
 # DeployKubernetesMLApp
 This project will guide the reader on setting up a AWS environment in order to operationalize a **Flask** application containing a **Machine Learning model** using **AWS**.<br/>
 The app is containerized with **Docker** & **Kubernetes** making it a scalable solution and it consists on a pre-trained sklearn model based on the data from the [Boston Housing challenge](https://www.kaggle.com/c/boston-housing). <br/>
